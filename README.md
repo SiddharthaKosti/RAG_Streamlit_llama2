@@ -5,6 +5,7 @@ python -m venv env_name
 
 ## activate the env
 env_name/bin/activate **(Mac/Linux)**
+
 env_name\Scripts\activate **(Windows)**
 
 ## install the requirements
